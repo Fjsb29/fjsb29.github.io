@@ -1,0 +1,9 @@
+img {
+    max-width: 100%; /* La imagen tendrá como máximo el ancho del contenedor */
+    height: auto; /* La altura se ajustará automáticamente para mantener la proporción */
+}
+
+h1 {
+    text-align: center; /* Centra el texto horizontalmente */
+    font-size: 350%; /* Tamaño del texto como un porcentaje del tamaño predeterminado */
+}
